@@ -1,0 +1,288 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container {
+	height: auto;
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	background-repeat: repeat-y;
+}
+.header {
+	background-image: url(images/header.gif);
+	height: 124px;
+	width: 1024px;
+}
+.content {
+	background-image: url(images/content.gif);
+	background-repeat: repeat-y;
+	width: 1024px;
+	background-color: #000;
+	color: #000;
+}
+h3 {
+	color: #FFAC2F;
+}
+
+.footer {
+	background-image: url(images/footer.jpg);
+	height: 35px;
+	width: 994px;
+	padding-top: 15px;
+	font-weight: bold;
+	color: #000;
+	padding-left: 30px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	display: block;
+}
+.footer a {
+	color: #000;
+	text-decoration: none;
+}
+.footer a:hover {
+	color: #900;
+	text-decoration: underline;
+}
+.footer a:visited {
+	color: #030;
+	text-decoration: none;
+}
+.footer a:active {
+	color: #003;
+}
+.bttn {
+	height: 33px;
+	width: 88px;
+	margin-top: 73px;
+	float: right;
+}
+.fact_flash {
+	background-color: #000;
+	height: 951px;
+	width: 1024px;
+}
+
+.bttn2 {
+	float: right;
+	height: 33px;
+	width: 96px;
+	margin-top: 73px;
+}
+.bttn3 {
+	float: right;
+	height: 33px;
+	width: 122px;
+	margin-top: 73px;
+	margin-right: 5px;
+}
+
+body {
+	font-family: "Times New Roman", Times, serif;
+	color: #000;
+	background-color: #000;
+	background-image: url(Picutes&Videos/color_wood.jpg);
+}
+
+flash {
+	height: 594px;
+	width: 1024px;
+	background-color: #000;
+	color: #000;
+}
+.history_text_2 {
+	height: 150px;
+	width: 1000px;
+	color: #FFF;
+	margin-top: 0px;
+	margin-left: 10px;
+	font-size: 15px;
+}
+.history_text {
+	height: 100px;
+	width: 1000px;
+	margin-top: 0px;
+	color: #FFF;
+	margin-left: 10px;
+	font-size: 15px;
+}.history_container {
+	height: 1002px;
+	width: 1024px;
+	background-color: #000;
+	margin: 0px;
+}
+.food_container {
+	background-color: #000;
+	height: 690px;
+	width: 1024px;
+	background-image: url(Picutes&Videos/dark_wood.jpg);
+}
+.food_img {
+	background-color: #000;
+	height: 175px;
+	width: 150px;
+	margin-top: 45px;
+	margin-left: 42px;
+	float: left;
+	color: #FC3;
+	text-align: center;
+	font-size: 18px;
+}
+.Attire_container {
+	background-color: #F0F0F0;
+	background-image: url(Picutes&Videos/dark_wood.jpg);
+	height: 720px;
+	width: 1024px;
+}
+.Attire_text_2 {
+	height: 230px;
+	width: 980px;
+	color: #FFF;
+	margin-left: 22px;
+	font-size: 15px;
+}
+.Attire_text {
+	height: 25px;
+	width: 905px;
+	color: #FFF;
+	margin-left: 0px;
+	font-size: 20px;
+	font-weight: normal;
+	padding-left: 65px;
+	padding-top: 5px;
+}
+.Attire_img {
+	float: left;
+	height: 190px;
+	width: 150px;
+	margin-top: 2px;
+	margin-left: 62px;
+	color: #FFF;
+	text-align: center;
+}
+.festival_container {
+	background-image: url(images/div_bkgrnd_plain.jpg);
+	height: 594px;
+	width: 1024px;
+}
+.festival_img {
+	height: 350px;
+	width: 325px;
+	float: right;
+	margin-top: 125px;
+	margin-right: 125px;
+}
+.fest_reli_flash {
+	float: right;
+	height: 420px;
+	width: 650px;
+	margin-top: 75px;
+	margin-right: 187px;
+}
+.nature_flash {
+	background-color: #666;
+	height: 440px;
+	width: 650px;
+	float: right;
+	margin-top: 70px;
+	margin-right: 187px;
+}
+.nature_img {
+	background-color: #000;
+	float: right;
+	height: 300px;
+	width: 300px;
+	margin-top: 147px;
+	margin-right: 31px;
+}
+
+
+.music_container {
+	height: 594px;
+	width: 1024px;
+	background-image: url(images/div_bkgrnd_plain.jpg);
+}
+.video_img {
+	float: right;
+	height: 110px;
+	width: 120px;
+	margin-top: 60px;
+	margin-right: 105px;
+}
+.video_img a {
+	text-decoration: none;
+}
+
+.music_youtube {
+	height: 385px;
+	width: 480px;
+	background-color: #666;
+	margin-top: 104.5px;
+	float: right;
+	margin-right: 272px;
+}
+.back_bttn {
+	height: 25px;
+	width: 80px;
+	margin-top: 500px;
+	margin-left: 462px;
+}
+.nature_container {
+	background-image: url(images/div_bkgrnd_plain.jpg);
+	height: 594px;
+	width: 1024px;
+}
+.heritage_container {
+	background-color: #000;
+	height: 594px;
+	width: 1024px;
+	background-image: url(images/div_bkgrnd_plain.jpg);
+}
+.heritage_img {
+	background-color: #000;
+	float: right;
+	height: 200px;
+	width: 200px;
+	margin-top: 64.66px;
+	margin-right: 208px;
+}
+.heritage_flash {
+	background-color: #666;
+	height: 440px;
+	width: 650px;
+	float: right;
+	margin-top: 70px;
+	margin-right: 187px;
+}
+.Monuments_container {
+	height: 594px;
+	width: 1024px;
+	background-image: url(images/div_bkgrnd_plain.jpg);
+}
+.hp_flash {
+	background-image: url(images/div_bkgrnd_plain.jpg);
+	height: 594px;
+	width: 1024px;
+}
+.monuments_img {
+	background-color: #000;
+	float: right;
+	height: 200px;
+	width: 200px;
+	margin-top: 64.66px;
+	margin-right: 208px;
+}
+.monument_flash {
+	background-color: #666;
+	height: 440px;
+	width: 650px;
+	float: right;
+	margin-top: 70px;
+	margin-right: 187px;
+}
+.pg_container {
+	background-color: #000;
+	height: 594px;
+	width: 1024px;
+	background-image: url(images/div_bkgrnd.jpg);
+}
